@@ -1,0 +1,4 @@
+# Ignore the files we dont to pust to Github
+
+*/node_modules
+*/.env
